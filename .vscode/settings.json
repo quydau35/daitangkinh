@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "tripitaka_title",
+            "database": "${workspaceFolder:test2-fastapi}/db/main.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
